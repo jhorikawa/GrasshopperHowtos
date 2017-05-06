@@ -1,5 +1,6 @@
 *.camproj
 *.trec
 capture/
-*.3dm
+0074*/*.3dm
+#*.3dm
 *.3dmbak
