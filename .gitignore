@@ -5,3 +5,4 @@ capture/
 #*.3dm
 *.3dmbak
 */rendering/*
+*/reference/*
