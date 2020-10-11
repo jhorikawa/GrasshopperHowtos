@@ -6,3 +6,5 @@ capture/
 *.3dmbak
 */rendering/*
 */reference/*
+*/geo/
+*/backup/
